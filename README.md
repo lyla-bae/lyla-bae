@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=lyla-bae&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/lyla-bae"
-  width="600"
-  height="300"
+  width="845"
+  height="200"
 />
 </a>
