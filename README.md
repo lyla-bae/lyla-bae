@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://www.gitanimals.org/">
-      <img
-        src="https://render.gitanimals.org/guilds/778479815183633444/draw"
-        width="845"
-        height="300"
-        alt="gitanimals"
-      />
-    </a>
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=lyla-bae&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/lyla-bae?pet-id=820547509287470596"
+    width="845"
+    height="120"
+  />
+</a>
+  
